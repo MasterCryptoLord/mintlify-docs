@@ -45,11 +45,6 @@
       "name": "Community",
       "icon": "telegram",
       "url": "https://t.me/zaibotpublic"
-    },
-    {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://docs.zaibot.io"
     }
   ],
   "navigation": [
