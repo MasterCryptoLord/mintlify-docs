@@ -60,14 +60,14 @@
       ]
     },
     {
-      "group": "Guide",
+      "group": "Explore",
       "pages": [
-        "guide/login",
-        "guide/staking",
-        "guide/leaderboard",
-        "guide/bonus",
-        "guide/bridge",
-        "guide/IDOs"
+        "explore/login",
+        "explore/staking",
+        "explore/leaderboard",
+        "explore/bonus",
+        "explore/bridge",
+        "explore/IDOs"
       ]
     },
     {
