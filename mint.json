@@ -62,7 +62,7 @@
     {
       "group": "Explore",
       "pages": [
-        "explore/login",
+        "explore/revenue",
         "explore/staking",
         "explore/leaderboard",
         "explore/bonus",
