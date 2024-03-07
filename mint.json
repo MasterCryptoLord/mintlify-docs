@@ -15,12 +15,12 @@
 
   "favicon": "/logo-sm.svg",
   "colors": {
-    "primary": "#FCFC03",
-    "light": "#FCFC03",
-    "dark": "#FCFC03",
+    "primary": "#03ffff",
+    "light": "#03ffff",
+    "dark": "#03ffff",
     "anchors": {
       "from": "#000000",
-      "to": "#FCFC03"
+      "to": "#03ffff"
     }
   },
 
