@@ -64,10 +64,8 @@
       "pages": [
         "explore/revenue",
         "explore/tracking",
-        "explore/leaderboard",
-        "explore/bonus",
-        "explore/bridge",
-        "explore/IDOs"
+        "explore/trending",
+        "explore/referrals"
       ]
     },
     {
