@@ -62,7 +62,8 @@
         "explore/trending",
         "explore/referrals",
         "explore/leaderboard",
-        "explore/staking"
+        "explore/staking",
+        "explore/share"
       ]
     },
     {
