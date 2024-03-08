@@ -60,7 +60,8 @@
         "explore/revenue",
         "explore/tracking",
         "explore/trending",
-        "explore/referrals"
+        "explore/referrals",
+        "explore/leaderboard"
       ]
     },
     {
